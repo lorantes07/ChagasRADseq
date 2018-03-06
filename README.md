@@ -1,4 +1,4 @@
-# RAD-seq analysis pipeline
+# Chagas Disease RAD-seq Bioinformatics pipeline
 Author: Lucia Orantes (lorantes@vermont.gov)
 Last updated: 3/6/2018
 ### Available data: [http://www.ncbi.nlm.nih.gov/bioproject/389426](http://www.ncbi.nlm.nih.gov/bioproject/389426)
